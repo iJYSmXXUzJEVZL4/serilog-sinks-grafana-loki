@@ -1,21 +1,9 @@
 # Serilog.Sinks.Grafana.Loki
 
-[![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua/)
 [![Build status](https://github.com/mishamyte/serilog-sinks-grafana-loki/workflows/CI/badge.svg)](https://github.com/mishamyte/serilog-sinks-grafana-loki/actions?query=workflow%3ACI)
 [![NuGet version](https://img.shields.io/nuget/v/Serilog.Sinks.Grafana.Loki)](https://www.nuget.org/packages/Serilog.Sinks.Grafana.Loki)
 [![Latest release](https://img.shields.io/github/v/release/mishamyte/serilog-sinks-grafana-loki?include_prereleases)](https://github.com/mishamyte/serilog-sinks-grafana-loki/releases)
 [![Documentation](https://img.shields.io/badge/docs-wiki-blueviolet.svg)](https://github.com/mishamyte/serilog-sinks-grafana-loki/wiki)
-
-## Terms of use
-
-By using this project or its source code, for any purpose and in any shape or form, you grant your **implicit agreement** to all the following statements:
-
-- You **condemn Russia and its military aggression against Ukraine**
-- You **recognize that Russia is an occupant that unlawfully invaded a sovereign state**
-- You **support Ukraine's territorial integrity, including its claims over temporarily occupied territories of Crimea and Donbas**
-- You **reject false narratives perpetuated by Russian state propaganda**
-
-Glory to Ukraine! 🇺🇦
 
 ## Table of contents
 - [What is this sink and Loki?](#what-is-this)
